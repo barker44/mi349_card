@@ -8,9 +8,19 @@ img {
     width: 100%;
 }
 
+h1 {
+    margin: 15px 0;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 100;
+}
+
 .card {
     background-color: #f3f3f3;
-    margin: 50px auto;
+    border-radius: 15px;
+    margin: 0 auto;
     width: 400px;
     text-align: center;
     box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
